@@ -3,8 +3,7 @@
 
 Test out your basics on programming,sharp your fundamentals,gear Up for more to come.
 
-An app that facilitate adequate no of Questions dealt with various Realms of 
-Programming with crux of vital information
+Programming  language quiz with level of difficulty
 
 
 ## How To Play
